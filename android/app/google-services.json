@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "748977501894",
+    "project_id": "notification-b4bec",
+    "storage_bucket": "notification-b4bec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748977501894:android:59307d0e589788e00cc9c7",
+        "android_client_info": {
+          "package_name": "com.example.drosake"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4rj-eA9kWKversUXFjRcRvh9SbaAxr5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748977501894:android:672cb524cab930040cc9c7",
+        "android_client_info": {
+          "package_name": "com.hussein.click_and_learn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4rj-eA9kWKversUXFjRcRvh9SbaAxr5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
